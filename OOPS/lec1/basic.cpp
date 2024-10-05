@@ -10,8 +10,10 @@ class Animal{
     //behaviour
 
     void bark(){
+        cout<<"barking"<<endl;
     }
     void eat(){
+        cout<<"eating"<<endl;
     } 
 };
 
@@ -20,8 +22,10 @@ int main(){
 
 //static
 Animal Ramesh;
-int x=Ramesh.age;
-cout<<x;
+int x=Ramesh.age=2;
+cout<<x<<endl;
+Ramesh.bark();
+Ramesh.eat();
 
 
 //dynamiv
