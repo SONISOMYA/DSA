@@ -19,7 +19,7 @@ class Animal{
         cout<<"eating"<<endl;
     } 
     //to access privae members outside class we use getter and setter
-    void getWeight(){
+    int getWeight(){
         return weight;
     }
 
@@ -38,6 +38,9 @@ int x=Ramesh.age=2;
 cout<<x<<endl;
 Ramesh.bark();
 Ramesh.eat();
+Ramesh.setWeight(100);
+
+cout<<"weight of Ramesh is : "<<Ramesh.getWeight();;
 
 
 //dynamiv
