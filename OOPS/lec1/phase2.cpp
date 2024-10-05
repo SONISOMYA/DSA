@@ -26,7 +26,7 @@ class Animal{
 
 
      //copy constructor
-     Animal(Animal obj){
+     Animal(Animal &obj){
         this->age= obj.age;
         this->name = obj.name;
         cout<<"I am inside Copy Constructor"<<endl;
@@ -48,11 +48,13 @@ class Animal{
 
 int main(){
     Animal * Suresh = new Animal(100);
+    Animal a(10);
     
    //Object copy
 
    Animal b= a;
-   Animal c(b);
+
+
 
     return 0;
     
