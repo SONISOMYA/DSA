@@ -9,7 +9,7 @@ class Animal{
     string name;
 
 
-    //CONSTRUCTOR
+    // DEFAULT CONSTRUCTOR
     Animal(){
         this->age=0;
         this->name="";
@@ -17,6 +17,21 @@ class Animal{
         cout<<"Constructor called"<<endl;
 
     }
+
+    //PARAMETERIZED CONSTRUCTOR
+    Animal(int age){
+        this->age= age;
+        cout<<"parametrized constructor called";
+    }
+
+
+     //copy constructor
+     Animal(Animal obj){
+        this->age= obj.age;
+        this->name = obj.name;
+        cout<<"I am inside Copy Constructor"<<endl;
+     }
+
     //behaviour
 
     void bark(){
@@ -32,9 +47,12 @@ class Animal{
 
 
 int main(){
-    Animal * Suresh = new Animal;
-    cout<<Suresh->age;
-    cout<<Suresh->name;
+    Animal * Suresh = new Animal(100);
+    
+   //Object copy
+
+   Animal b= a;
+   Animal c(b);
 
     return 0;
     
