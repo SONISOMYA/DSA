@@ -3,6 +3,7 @@ using namespace std;
 
 class Animal{
     //properties or states
+    public:
     int age;
     string name;
 
@@ -19,7 +20,8 @@ int main(){
 
 //static
 Animal Ramesh;
-Ramesh.age;
+int x=Ramesh.age;
+cout<<x;
 
 
 //dynamiv
