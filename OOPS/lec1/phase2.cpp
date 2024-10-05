@@ -11,6 +11,9 @@ class Animal{
 
     //CONSTRUCTOR
     Animal(){
+        this->age=0;
+        this->name="";
+
         cout<<"Constructor called"<<endl;
 
     }
@@ -30,7 +33,8 @@ class Animal{
 
 int main(){
     Animal * Suresh = new Animal;
-
+    cout<<Suresh->age;
+    cout<<Suresh->name;
 
     return 0;
     
