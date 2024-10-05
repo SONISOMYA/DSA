@@ -34,14 +34,20 @@ int main(){
 
 //static
 Animal Ramesh;
-int x=Ramesh.age=2;
-cout<<x<<endl;
-Ramesh.bark();
-Ramesh.eat();
-Ramesh.setWeight(100);
+// int x=Ramesh.age=2;
+// cout<<x<<endl;
+// Ramesh.bark();
+// Ramesh.eat();
+// Ramesh.setWeight(100);
 
-cout<<"weight of Ramesh is : "<<Ramesh.getWeight();;
+// cout<<"weight of Ramesh is : "<<Ramesh.getWeight();
 
 
-//dynamiv
+//dynamically
+
+Animal* Suresh = new Animal;
+Suresh->age=20;
+cout<<"age of suresh is:"<<Suresh->age;
+
+
 }
