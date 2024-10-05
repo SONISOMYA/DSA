@@ -32,6 +32,12 @@ class Animal{
         cout<<"I am inside Copy Constructor"<<endl;
      }
 
+
+     //destructor
+     ~Animal(){
+        cout<<"I am inside destructor";
+     }
+
     //behaviour
 
     void bark(){
