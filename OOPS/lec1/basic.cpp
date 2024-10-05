@@ -3,6 +3,9 @@ using namespace std;
 
 class Animal{
     //properties or states
+
+    private:
+    int weight;
     public:
     int age;
     string name;
@@ -15,6 +18,15 @@ class Animal{
     void eat(){
         cout<<"eating"<<endl;
     } 
+    //to access privae members outside class we use getter and setter
+    void getWeight(){
+        return weight;
+    }
+
+    void setWeight(int w){
+
+        weight= w;
+    }
 };
 
 int main(){
