@@ -46,7 +46,9 @@ Animal Ramesh;
 //dynamically
 
 Animal* Suresh = new Animal;
-Suresh->age=20;
+// Suresh->age=20; either this can be used or 
+(*Suresh).age = 20;
+
 cout<<"age of suresh is:"<<Suresh->age;
 
 
