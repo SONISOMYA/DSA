@@ -7,6 +7,7 @@ class abc{
     int *y;
 
     public:
+    
         abc(){
             x=0;
             *y=0;     
