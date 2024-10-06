@@ -10,10 +10,10 @@ int main(){
 //CONST WITH POINTERS
 
 const int *a= new int(2 ); //const data , no const pointer
-// *a=2;
+// *a=2; cant change the content of the pointer 
 cout<<*a<<endl;
 int b= 20;
-a= &b;
+a= &b; //* but the pointer it self can be reassigned 
 cout<<*a<<endl;
 
 
