@@ -13,11 +13,13 @@ class abc{
             *y=0;     
         }
 
+        
 }
 
 int main(){
 
     abc bubu;
+    bubu
 
 
 }
