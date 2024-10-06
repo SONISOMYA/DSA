@@ -10,6 +10,7 @@ int main(){
 //CONST WITH POINTERS
 
 const int *a= new int(2 ); //const data , no const pointer
+int const *a = new int(2); // same as the above line
 // *a=2; cant change the content of the pointer 
 cout<<*a<<endl;
 int b= 20;
