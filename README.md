@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SONISOMYA/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/SONISOMYA/DSA/tree/master/3321-type-of-triangle) |
 ## Monotonic Stack
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SONISOMYA/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SONISOMYA/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
