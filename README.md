@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONISOMYA/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/SONISOMYA/DSA/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
