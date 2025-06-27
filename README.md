@@ -13,6 +13,7 @@
 | [0495-teemo-attacking](https://github.com/SONISOMYA/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SONISOMYA/DSA/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SONISOMYA/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SONISOMYA/DSA/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
