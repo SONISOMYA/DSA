@@ -12,6 +12,7 @@
 | [0228-summary-ranges](https://github.com/SONISOMYA/DSA/tree/master/0228-summary-ranges) |
 | [0495-teemo-attacking](https://github.com/SONISOMYA/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/SONISOMYA/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SONISOMYA/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
