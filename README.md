@@ -13,6 +13,7 @@
 | [0495-teemo-attacking](https://github.com/SONISOMYA/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/SONISOMYA/DSA/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/SONISOMYA/DSA/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SONISOMYA/DSA/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/SONISOMYA/DSA/tree/master/0506-relative-ranks) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/SONISOMYA/DSA/tree/master/0500-keyboard-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/SONISOMYA/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
