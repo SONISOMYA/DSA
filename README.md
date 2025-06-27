@@ -11,6 +11,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SONISOMYA/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SONISOMYA/DSA/tree/master/0228-summary-ranges) |
 | [0495-teemo-attacking](https://github.com/SONISOMYA/DSA/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/SONISOMYA/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SONISOMYA/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,12 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/SONISOMYA/DSA/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SONISOMYA/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
