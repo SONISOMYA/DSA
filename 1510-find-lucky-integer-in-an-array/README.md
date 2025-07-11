@@ -11,7 +11,8 @@
 <strong>Explanation:</strong> The only lucky number in the array is 2 because frequency[2] == 2.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong>
+</p>
 
 <pre>
 <strong>Input:</strong> arr = [1,2,2,3,3,3]
