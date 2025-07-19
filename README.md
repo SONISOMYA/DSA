@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SONISOMYA/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SONISOMYA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SONISOMYA/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SONISOMYA/DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SONISOMYA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
