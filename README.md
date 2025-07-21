@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/SONISOMYA/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SONISOMYA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SONISOMYA/DSA/tree/master/0169-majority-element) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SONISOMYA/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SONISOMYA/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
