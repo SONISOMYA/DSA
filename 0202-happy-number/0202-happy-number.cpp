@@ -20,7 +20,7 @@ public:
         }while(slow!=fast);
 
 
-        return slow==1;
+        return fast==1;
     }
     
 };
