@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SONISOMYA/DSA/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/SONISOMYA/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SONISOMYA/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
