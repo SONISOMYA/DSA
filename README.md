@@ -12,11 +12,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SONISOMYA/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SONISOMYA/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SONISOMYA/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SONISOMYA/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SONISOMYA/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SONISOMYA/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SONISOMYA/DSA/tree/master/0202-happy-number) |
