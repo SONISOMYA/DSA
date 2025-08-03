@@ -1,12 +1,28 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] == nums[i - 1]) {
-                return nums[i];
-            }
-        }
-        return -1; // should never happen if a duplicate is guaranteed
+        int slow = nums[0];
+        int fast = nums[0];
+
+//we can use do while loop as well
+slow = nums[slow];
+fast = nums[nums[fast]];
+
+while (slow != fast) {
+    slow = nums[slow];
+    fast = nums[nums[fast]];
+}
+
+// Phase 2: Find entrance of cycle
+slow = nums[0];
+while (slow != fast) {
+    slow = nums[slow];
+    fast = nums[fast];
+}
+
+return slow;
+
+
     }
+
 };
