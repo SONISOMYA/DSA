@@ -18,7 +18,7 @@ public:
         }
         headB = headB->next;
     }
-    //intersection is not present between the lists return null
+    
     return NULL;
         
     }
