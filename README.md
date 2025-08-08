@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SONISOMYA/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/SONISOMYA/DSA/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/SONISOMYA/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
