@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findFirst(vector<int>& nums, int target) {
+int First(vector<int>& nums, int target) {
         int low = 0, high = nums.size() - 1;
         int first = -1;
         while (low <= high) {
@@ -16,15 +16,14 @@ public:
         }
         return first;
     }
-
-    int findLast(vector<int>& nums, int target) {
+    int Last(vector<int>& nums, int target) {
         int low = 0, high = nums.size() - 1;
         int last = -1;
         while (low <= high) {
             int mid = low + (high - low)/2;
             if (nums[mid] == target) {
-                last = mid;       
-                low = mid + 1;    
+                last = mid;     
+                low = mid + 1;   
             } else if (nums[mid] < target) {
                 low = mid + 1;
             } else {
@@ -35,8 +34,12 @@ public:
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int first = findFirst(nums, target);
-        int last = findLast(nums, target);
-        return {first, last};
+        int f=First(nums,target);
+        int l=Last(nums,target);
+        return {f,l};
+
+        
+
+        
     }
 };
