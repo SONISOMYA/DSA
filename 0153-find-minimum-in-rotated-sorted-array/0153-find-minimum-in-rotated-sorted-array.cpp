@@ -7,6 +7,10 @@ public:
 
         while(s<=e){
             int mid=s+(e-s)/2;
+            if(nums[s]<=nums[e]){
+                ans=min(ans,nums[s]);
+                break;
+            }
             if(nums[s]<=nums[mid]){
                 ans=min(ans,nums[s]);
                 s=mid+1;
