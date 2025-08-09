@@ -34,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/SONISOMYA/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SONISOMYA/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SONISOMYA/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SONISOMYA/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SONISOMYA/DSA/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -43,5 +44,6 @@
 | [0035-search-insert-position](https://github.com/SONISOMYA/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SONISOMYA/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SONISOMYA/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SONISOMYA/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SONISOMYA/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
